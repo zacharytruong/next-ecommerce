@@ -50,6 +50,7 @@ export default function Nav({ user }: Session) {
                 width={36}
                 height={36}
                 className="rounded-full"
+                priority
               />
             </li>
             <li>Dashboard</li>
